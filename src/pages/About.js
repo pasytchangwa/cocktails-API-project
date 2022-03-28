@@ -1,14 +1,16 @@
-import React from 'react'
+import React from 'react';
 
-const About = () => {
+export default function About() {
   return (
-    <section className="section about-section">
-       <h1 className="section-title">
-         About us
-       </h1>
-       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas est rerum eveniet molestias soluta dolore vitae maiores neque non alias consectetur repudiandae nihil temporibus, sint, vel quae. Officia ratione rem voluptatem et reprehenderit optio omnis aperiam esse. Dolorum quidem assumenda repellendus mollitia nisi architecto doloribus!</p>
+    <section className='section about-section'>
+      <h1 className='section-title'>about us</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
+        repudiandae architecto qui adipisci in officiis, aperiam sequi atque
+        perferendis eos, autem maiores nisi saepe quisquam hic odio consectetur
+        nobis veritatis quasi explicabo obcaecati doloremque? Placeat ratione
+        hic aspernatur error blanditiis?
+      </p>
     </section>
-  )
+  );
 }
-
-export default About;
