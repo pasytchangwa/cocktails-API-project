@@ -4,7 +4,14 @@
 
 > Simple project for hooks and general revision in React
 
-![cocktails](cocktails.PNG)
+## Desktop
+
+![cocktail](cocktail.PNG)
+
+## Mobile
+
+![cocktailm](cocktailm.PNG)
+
 
 [LIVE DEMO]()
 
