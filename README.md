@@ -4,9 +4,16 @@
 
 > Simple project for hooks and general revision in React
 
-![cocktails](cocktails.PNG)
+## Desktop
 
-[LIVE DEMO]()
+![cocktail](cocktail.PNG)
+
+## Mobile
+
+![cocktailm](cocktailm.PNG)
+
+
+[LIVE DEMO](https://cocktails-site-project-syl.netlify.app/)
 
 ## Built With
 
