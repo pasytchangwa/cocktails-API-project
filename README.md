@@ -13,7 +13,7 @@
 ![cocktailm](cocktailm.PNG)
 
 
-[LIVE DEMO]()
+[LIVE DEMO](https://cocktails-site-project-syl.netlify.app/)
 
 ## Built With
 
